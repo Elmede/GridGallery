@@ -2,7 +2,7 @@ name: Photo gallery
 markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:title/
-url: https://iamnii.github.io/GridGallery/
+url: https://elmede.github.io
 author:
-    name: Adjetey Sowah
+    name: Romain Peiffert
     twitter: #
