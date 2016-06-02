@@ -25,6 +25,14 @@
 	width: 100%;
 }
 
+.grid-gallery figcaption h3 {
+	margin: 0;
+	padding: 0 0 0.5em;
+}
+
+.grid-gallery figcaption p {
+	margin: 0;
+}
 
 
 /* Grid style */
@@ -54,6 +62,10 @@
 	opacity: 0.7;
 }
 
+.grid figcaption {
+	background: #e4e4e4;
+	padding: 25px;
+}
 
 
 /* Slideshow style */
