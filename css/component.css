@@ -61,10 +61,7 @@
 	opacity: 0.7;
 }
 
-.grid figcaption {
-	background: #e4e4e4;
-	padding: 25px;
-}
+
 
 /* Slideshow style */
 .slideshow {
@@ -157,6 +154,10 @@
 	padding-bottom: 20px;
 }
 
+.slideshow figcaption h3 {
+	font-weight: 300;
+	font-size: 200%;
+}
 
 /* Navigation */
 .slideshow nav span {
