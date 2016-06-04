@@ -1,4 +1,4 @@
-name: Memoire d'Images
+name:      Memoire d'Images
 markdown: redcarpet
 pygments: true
 permalink: /:year/:month/:title/
