@@ -1,7 +1,7 @@
 ---
 layout: default
 date:   2014-04-06 23:26:12
-photo: Nanpu Bridge.jpg
+photo: 7.png
 caption_header: Sample header
 caption: sample caption
 ---
