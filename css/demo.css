@@ -20,11 +20,11 @@ body, html { font-size: 100%; padding: 0; margin: 0;}
 
 body {
     font-family: 'Lato', Calibri, Arial, sans-serif;
-    color: #47a3da;
+    color: #494646;
 }
 
 a {
-	color: #e4e4e4;
+	color: #494646;
 	text-decoration: none;
 	outline: none;
 }
@@ -43,7 +43,7 @@ a:hover {
 	font-variant: normal;
 	text-transform: none;
 	text-align: center;
-	color: #47a3da;
+	color: #494646;
 	-webkit-font-smoothing: antialiased;
 }
 
@@ -58,7 +58,7 @@ a:hover {
 }
 
 .container > header nav a:hover:after {
-	color: #fff;
+	color: #494646;
 }
 
 .bp-icon-next:after {
