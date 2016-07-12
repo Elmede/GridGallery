@@ -299,7 +299,7 @@ span.nav-close:before {
 		width: 100%;
 	}
 }
-@media screen and (max-heigth: 30000px) {
+@media screen and (min-heigth: 30000px) {
 	.slideshow li {
 		width:  10%;
 		height: 10%;
