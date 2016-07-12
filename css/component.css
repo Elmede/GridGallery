@@ -115,8 +115,8 @@
 }
 
 .slideshow li {
-	max-height: 70%;
-	max-width: 70%;
+	max-height: 50%;
+	max-width: 50%;
 	position: absolute;
 	top: 50%;
 	left: 50%;
