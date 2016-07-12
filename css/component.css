@@ -115,12 +115,19 @@
 }
 
 .slideshow li {
+	@media screen  {
+  img { max-width: 90%; }
+}
+
+@media screen  {
+  img { max-height: 90%; }
+}
 	position: absolute;
 	top: 50%;
 	left: 50%;
 	margin: -280px 0 0 -430px;
 	visibility: hidden;
-	@media screen and (max-width: 80%) and (max-height: 80%)
+	
 }
 
 .slideshow li.show {
