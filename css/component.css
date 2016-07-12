@@ -115,18 +115,13 @@
 }
 
 .slideshow li {
-	
+	width: 825px;
+	height: 550px;
 	position: absolute;
 	top: 50%;
 	left: 50%;
 	margin: -280px 0 0 -430px;
 	visibility: hidden;
-@media all  {
-  img.ri { max-width: 90%;}
-  }
-@media all  {
-  img.ri { max-height: 90%; }
-  }
 }
 
 .slideshow li.show {
