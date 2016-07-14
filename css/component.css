@@ -156,7 +156,7 @@
 }
 
 .slideshow figcaption {
-	padding-bottom: 20px;
+	padding-bottom: 0px;
 }
 
 .slideshow figcaption h3 {
@@ -299,12 +299,4 @@ span.nav-close:before {
 		width: 100%;
 	}
 }
-@media screen and (min-heigth: 30000px) {
-	.slideshow li {
-		width:  10%;
-		height: 10%;
-		top: 0;
-		left: 0;
-		margin: 0;
-	}
-}
+
